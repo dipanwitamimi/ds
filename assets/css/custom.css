@@ -1,0 +1,11 @@
+body {
+    padding-bottom: 60px; /* Space for fixed footer */
+}
+
+.card {
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1
