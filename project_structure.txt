@@ -1,0 +1,43 @@
+distribution_management/
+├── admin/
+│   ├── index.php
+│   ├── dashboard.php
+│   ├── branches/
+│   │   ├── index.php
+│   │   ├── add.php
+│   │   ├── edit.php
+│   │   └── delete.php
+│   ├── reports/
+│   │   ├── staff.php
+│   │   ├── bank.php
+│   │   ├── lapu.php
+│   │   ├── sim.php
+│   │   ├── apb.php
+│   │   ├── dth.php
+│   │   └── cash_deposit.php
+│   └── settings.php
+├── branch/
+│   ├── index.php
+│   ├── dashboard.php
+│   ├── staff/
+│   ├── bank_accounts/
+│   ├── lapu/
+│   ├── sim_cards/
+│   ├── apb/
+│   ├── dth/
+│   └── cash_deposit/
+├── assets/
+│   ├── css/
+│   │   ├── bootstrap.min.css
+│   │   └── custom.css
+│   ├── js/
+│   │   ├── jquery.min.js
+│   │   ├── bootstrap.bundle.min.js
+│   │   └── custom.js
+│   └── img/
+├── includes/
+│   ├── config.php
+│   ├── database.php
+│   ├── functions.php
+│   └── auth.php
+└── index.php
